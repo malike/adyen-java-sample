@@ -1,0 +1,16 @@
+## YAML Template.
+
+server:
+  port: 8080
+  
+  
+
+
+spring:
+  application:
+    name: adyen-java-sample
+
+
+payment:
+  username: xxxxx
+  password: xxxxx
